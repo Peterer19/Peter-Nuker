@@ -4,11 +4,10 @@
   
 > If you caught any issues, please report it in [issues](https://github.com/Peterer19/Peter-Nuker/issues).
 
-> Read the [FAQ](#frequently-asked-questions) before creating a new issue.
 
 <details>
 <summary>Preview</summary>
-<img src="https://i.imgur.com/4WCIQCc.png" alt="png">
+<img src="[https://i.imgur.com/4WCIQCc.png](https://i.imgur.com/2yVL8Db.png)" alt="png">
 </details>
 
 ---
