@@ -7,11 +7,11 @@ using WebDriverManager.DriverConfigs.Impl;
 using WebDriverManager.Helpers;
 
 /* 
-       │ Author       : Hitler
-       │ Name         : Meddl-Nuker
+       │ Author       : Peter
+       │ Name         : Peter-Nuker
 */
 
-namespace Meddl
+namespace Peter
 {
     class Program
     {
