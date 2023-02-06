@@ -7,7 +7,7 @@
 
 <details>
 <summary>Preview</summary>
-<img src="[https://i.imgur.com/2yVL8Db.png]" alt="png">
+<img src="https://i.imgur.com/2yVL8Db.png" alt="png">
 </details>
 
 ---
