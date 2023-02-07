@@ -7,10 +7,8 @@
 > Download here: [Download](https://github.com/Peterer19/Peter-Nuker/releases/download/discord/Peter.rar).
 
 
-<details>
-<summary>Preview</summary>
 <img src="https://i.imgur.com/2yVL8Db.png" alt="png">
-</details>
+
 
 ---
 
