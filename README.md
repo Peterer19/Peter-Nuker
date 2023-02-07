@@ -1,6 +1,6 @@
 # Peter Nuker
 
-> If you like the project, consider dropping a star ÃƒÆ’Ã‚Â¢Ãƒâ€šÃ‚Â­Ãƒâ€šÃ‚Â
+> If you like the project, consider dropping a star ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â
   
 > If you caught any issues, please report it in [issues](https://github.com/Peterer19/Peter-Nuker/issues).
 
@@ -65,5 +65,4 @@
 * [Install .NET on Linux](https://learn.microsoft.com/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website)
 
 </details>
- 
  
