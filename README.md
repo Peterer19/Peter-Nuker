@@ -4,7 +4,7 @@
   
 > If you caught any issues, please report it in [issues](https://github.com/Peterer19/Peter-Nuker/issues).
 
-> **Download here: [Download](https://github.com/Peterer19/Peter-Nuker/releases/download/discord/Peter.rar).**
+> **Download Last Compiled Version: [Download](https://github.com/Peterer19/Peter-Nuker/releases/download/discord/Peter.rar).**
 
 
 
