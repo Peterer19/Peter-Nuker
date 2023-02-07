@@ -96,7 +96,7 @@ namespace Peter
                 Console.ForegroundColor = Color.Yellow;
                 Console.WriteLine();
                 Console.Write("Your choice: ");
-                int choice = int.Parse(Console.ReadLine());
+
                 switch (choice)
                 {
                     default:
